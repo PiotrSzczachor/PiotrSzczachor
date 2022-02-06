@@ -1,9 +1,14 @@
 ### Hi there 👋
 ---
-This is my GitHub Page, open it and look what I'm working on:relaxed: : https://piotrszczachor.github.io/page/
+My name is Piotr Szcząchor and below you can find out some informations about me :smile::
+- :book: I'm 2'nd year student of Computer Science and Inteligent Systems on AGH Cracow.
+- :computer: The programming languages I have come into contact with are C, C++, Java and Python
+- :snake: I'm currently learning about machine learning using Python
+- :elephant: I'm familiar with PosgreSQL
+- :chart_with_upwards_trend: I like to gain experience and learn new things
 
-
-Link do repozytorium Pacman C++ https://github.com/patriciateroltolsa/Pacman
+---
+You can reach me by sending email - piotr.szczachor1@wp.pl :mailbox_with_mail:
 
 <!--
 **PiotrSzczachor/PiotrSzczachor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
