@@ -3,7 +3,7 @@
 My name is Piotr Szcząchor and below you can find out some informations about me :smile::
 - :book: I'm 2'nd year student of Computer Science and Inteligent Systems on AGH Cracow.
 - :computer: The programming languages I have come into contact with are C, C++, Java and Python
-- :snake: I'm currently learning about machine learning using Python
+- :snake: I'm currently learning about machine learning using Python and C# & .NET
 - :elephant: I'm familiar with PostgreSQL
 - :chart_with_upwards_trend: I like to gain experience and learn new things
 
