@@ -1,9 +1,10 @@
 ### Hi there 👋
 ---
 My name is Piotr Szcząchor and below you can find out some informations about me :smile::
-- :book: I'm 4'rd year student of Computer Science and Inteligent Systems on AGH Cracow with 2 years of commercial experience.
+- :speech_balloon: I'm Engineer of Computer Science and Inteligent Systems from AGH Cracow with 2 years of commercial experience.
+- :book: I am a second-cycle Computer Science student at the Warsaw University of Technology.
 - :computer: The programming languages I have come into contact with are C, C++, C#, JS, TS, Java and Python
-- :office: I'm currently working as Full Stack .NET & Angular developer
+- :office: I'm currently working as Full Stack .NET developer
 - :elephant: I'm familiar with SQL
 - :chart_with_upwards_trend: I like to gain experience and learn new things
 
